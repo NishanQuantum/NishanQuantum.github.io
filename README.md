@@ -12,3 +12,9 @@
 **Practice Questions:**
 
 > [Practice Question Paper for Nervous System & Skeletal and Muscular System](Grade5-CBSE/Science/ch5-6-practice-questions.md)
+
+
+---
+
+### Kannada
+[Jeevanada Moulya](Grade5-CBSE/Kannada/jeevanada-moulya.md)
